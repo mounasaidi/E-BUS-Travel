@@ -1,0 +1,8 @@
+numRes | NumBus | DateRes         |  Voyageur  
+1002   |301     |12/12/2023 15:30 |fakhfekh maya
+1105   |408     |03/02/2023 06.25 |majri asma
+1205   |520     |07/10/2023 08.45 |belgacem aziz
+1346   |608     |17/05/2023 11.20 |souissi halim
+1078   |206     |09/01/2023 12.50 |chtourou nour
+2001   |301     |12/12/2023 17.25 |damak aymen
+2073   |408     |29/11/2023 19.25 |asker eya

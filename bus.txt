@@ -1,0 +1,8 @@
+numBus | Destination | NbrPlaces
+101    | Nabeul      | 51
+112    | Zaghouan    |32
+301    | Monastir    | 45
+206    | Bizerte     | 28
+408    | Gabes       | 51
+520    | Djerba      | 32
+608    | Mednine     | 45
